@@ -1,0 +1,14 @@
+[
+  {
+    "task": "Add username validation",
+    "expected_files": [
+      "sample_repo/user_service.py"
+    ]
+  },
+  {
+    "task": "Write tests for user creation",
+    "expected_files": [
+      "sample_repo/tests/test_api.py"
+    ]
+  }
+]
